@@ -9,5 +9,5 @@
 Python 3
 
 **Application output:**
-![image](https://github.com/mohannscarlett/Knights-Tour-Simulation/assets/123710621/08a1fb8d-d6e7-49a5-ba04-e08551511f4b)
+![283607198-08a1fb8d-d6e7-49a5-ba04-e08551511f4b](https://github.com/mohannscarlett/Knights-Tour-Simulation/assets/123710621/9f537118-5f48-4c11-a30c-4983b066a283)
 
